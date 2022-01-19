@@ -1,14 +1,4 @@
-
-const aboutMe = {
-    name: "Abdussamad Yisau",
-    languages: ["JavaScript", "ReactJS", "React Native", "NodeJS", "Python"],
-    connect: {
-        email: "sammieyisau@gmail.com",
-        linkedin: "https://www.linkedin.com/in/abdussamad-yisau-915298154/",
-    },
-    quote: "Elemi lo ma last"
-}
-
+```javascript
 const aboutMe = {
     name: "Wemi Moyela",
     languages: ["JavaScript", "Ruby", "ReactJS", "React Native", "NodeJS", "Python"],
@@ -18,3 +8,4 @@ const aboutMe = {
     },
     quote: "shamelessly stole this from Abdussamad 🙏🏿"
 }
+```
