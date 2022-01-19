@@ -1,4 +1,4 @@
-hey! <img src="https://github.com/AbdussamadYisau/AbdussamadYisau/blob/master/Hi.gif" width="25px">
+hey! <img src="https://github.com/AbdussamadYisau/AbdussamadYisau/blob/master/Hi.gif" width="15px">
 
 
 ```javascript
