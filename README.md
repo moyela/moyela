@@ -9,6 +9,5 @@ const aboutMe = {
         email: "wemymoyela@gmail.com",
         linkedin: "https://www.linkedin.com/in/moyela/",
     },
-    quote: "shamelessly stole this from Abdussamad 🙏🏿"
 }
 ```
