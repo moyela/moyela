@@ -6,8 +6,8 @@ const userInfo = {
     name: "Wemi Moyela",
     languages: ["JavaScript", "Ruby", "Angular.TS" "React.JS", "React Native", "NodeJS", "Python"],
     connect: {
-        email: "wemymoyela@gmail.com",
         linkedin: "https://www.linkedin.com/in/moyela/",
+        myWebsite: "moyela.xyz",
     },
 }
 ```
