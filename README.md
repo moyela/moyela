@@ -7,7 +7,6 @@ const userInfo = {
     languages: ["JavaScript", "Ruby", "Angular.TS" "React.JS", "React Native", "NodeJS", "Python"],
     connect: {
         linkedin: "https://www.linkedin.com/in/moyela/",
-        myWebsite: "moyela.xyz",
     },
 }
 ```
