@@ -1,5 +1,5 @@
 
-### My name is pronounced like Rémy, but of course with a 'W'. 
+### My name is pronounced like Rémy, but with a 'W'. 
 
 I'm an engineer that likes to make useful things that help people.
 
