@@ -1,5 +1,7 @@
 
-My name is pronounced like Rémy. I'm an engineer that likes to make useful things that help people.
+#### My name is pronounced like Rémy, but of course with a 'W'. 
+
+I'm an engineer that likes to make useful things that help people.
 
 I currently work as a Technical Product Manager at a software agency where I bridge the gap between technical execution and business growth, ensuring that what we build is not only highly performant but also perfectly aligned with market needs.
 
@@ -7,6 +9,7 @@ I'm building a multiplayer investing game called [Moonfly](https://moonfly.games
 
 If you want to talk about work stuff, ask me for plant reccommendations (I have a large garden), or compare cycling routes fel free to reach out at any of the below:
 
-- [Website](moyela.com)
-- [LinkedIn](linkedin.com/in/moyela/)
-- [Twitter/X](x.com/wemimoyela)
+### 📫 Contact Me
+#### - [Website](moyela.com)
+#### - [LinkedIn](linkedin.com/in/moyela/)
+#### - [Twitter/X](x.com/wemimoyela)
