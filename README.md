@@ -7,9 +7,9 @@ I currently work as a Technical Product Manager at a software agency where I bri
 
 I'm building a multiplayer investing game called [Moonfly](https://moonfly.games/) I hope lots of people enjoy with Ruby on Rails and Next.js
 
+### 📫 Contact Me
 If you want to talk about work stuff, ask me for plant reccommendations (I have a large garden), or compare cycling routes fel free to reach out at any of the below:
 
-### 📫 Contact Me
-#### - [Website](moyela.com)
-#### - [LinkedIn](linkedin.com/in/moyela/)
-#### - [Twitter/X](x.com/wemimoyela)
+#### - [✉️ Website](moyela.com)
+#### - [💼 LinkedIn](linkedin.com/in/moyela/)
+#### - [🐥 Twitter/X](x.com/wemimoyela)
