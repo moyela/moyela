@@ -10,6 +10,6 @@ I'm building a multiplayer investing game called [Moonfly](https://moonfly.games
 ### 📫 Contact Me
 If you want to talk about work stuff, ask me for plant reccommendations (I have a large garden), or compare cycling routes fel free to reach out at any of the below:
 
-#### - [✉️ Website](moyela.com)
-#### - [💼 LinkedIn](linkedin.com/in/moyela/)
-#### - [🐥 Twitter/X](x.com/wemimoyela)
+#### - [✉️ Website](https://moyela.com)
+#### - [💼 LinkedIn](https://linkedin.com/in/moyela/)
+#### - [🐥 Twitter/X](https://x.com/wemimoyela)
